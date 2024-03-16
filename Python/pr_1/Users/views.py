@@ -11,3 +11,4 @@ class SignUp(CreateView):
     succes_url = reverse_lazy("login")
     template_name = "signup.html"
     
+####
