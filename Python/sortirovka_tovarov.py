@@ -15,18 +15,6 @@
 Цена должна выводиться с точностью до двух знаком после запятой
 
 
-test input:
-
-print_goods(data)
-Correct output:
-5.00 - Aa
-5.00 - AA
-5.00 - aa
-5.00 - aA
-4.00 - Aa
-3.00 - aA
-2.00 - aa
-1.00 - a
 
 '''
 def print_goods(list_of_goods):
